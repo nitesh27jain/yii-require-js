@@ -1,0 +1,14 @@
+{
+    "name": "tutorialspoint/yii-require-js",
+    "authors": [
+        {
+            "name": "nitesh"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "YiiRequireJsWidget": "src/"
+        }
+    }
+}

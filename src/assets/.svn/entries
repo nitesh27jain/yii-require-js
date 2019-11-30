@@ -1,0 +1,28 @@
+10
+
+dir
+0
+https://media-suite.svn.beanstalkapp.com/crams/branches/1.32/protected/extensions/yii-require-js/assets
+https://media-suite.svn.beanstalkapp.com/crams
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+edcfb3c7-bba1-4fdd-95af-6812b40ed200
+
